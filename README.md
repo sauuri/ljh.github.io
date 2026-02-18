@@ -42,5 +42,5 @@
 - `MG,NMG_그래프.ipynb`  
   - feature 수 변화에 따른 성능 그래프/시각화 중심 정리
   <img width="2990" height="2390" alt="image" src="https://github.com/user-attachments/assets/0564fda2-eb87-4773-ae12-04a1c4fa1c0a" />
-  <img width="3385" height="4364" alt="image" src="https://github.com/user-attachments/assets/bda60c74-e297-4cea-87ad-5da1c246e88f" />
   <img width="1995" height="1589" alt="image" src="https://github.com/user-attachments/assets/85007e8b-9c15-42ac-9594-1946e79c654f" />
+  <img width="3385" height="4364" alt="image" src="https://github.com/user-attachments/assets/bda60c74-e297-4cea-87ad-5da1c246e88f" />
