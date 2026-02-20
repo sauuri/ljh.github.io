@@ -37,9 +37,9 @@
 - 최종 선택 feature 개수: **[최종 N]개** (성능: [Accuracy 0.xx / F1 0.xx])
 
 ## 노트북 구성
-- `Legacy_MG_NMG_model_learning.ipynb`  
+- `MG_NMG_model_learning.ipynb`  
   - 데이터 로드/전처리, 모델 학습, feature importance 계산, feature 줄이기 실험 전체 흐름
-- `MG,NMG_그래프.ipynb`  
+- `MG_NMG_result_graph.ipynb`  
   - feature 수 변화에 따른 성능 그래프/시각화 중심 정리
   <img width="2990" height="2390" alt="image" src="https://github.com/user-attachments/assets/0564fda2-eb87-4773-ae12-04a1c4fa1c0a" />
   <img width="1995" height="1589" alt="image" src="https://github.com/user-attachments/assets/85007e8b-9c15-42ac-9594-1946e79c654f" />
